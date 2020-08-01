@@ -1,2 +1,2 @@
 # openbook
-a machine learning approach to mitigating the artificiality of midi versions of pieces of music
+can we create a better social media platform by open-sourcing all the code and removing the profit motive?
